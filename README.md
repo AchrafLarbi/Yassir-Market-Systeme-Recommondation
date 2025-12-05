@@ -23,7 +23,7 @@ This is a **hybrid rule-based recommendation system** with the following charact
 - **Personalized**: Uses user-product interaction history, recency, frequency, and user-specific reorder rates
 - **Content-based**: Leverages user and product features (not just collaborative filtering)
 - **Popularity-based fallback**: For cold-start users, recommends globally popular products
-- **No ML model**: All logic is based on engineered features and weighted scoring
+
 
 **Summary:** A feature-engineered, rule-based, hybrid recommender system that combines personalized, content-based, and popularity-based strategies for robust product recommendations.
 
